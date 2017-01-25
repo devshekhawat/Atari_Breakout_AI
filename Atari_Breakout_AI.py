@@ -2,7 +2,7 @@
 Atari_Breakout_AI
 Developed By : Devedra Singh Shekhawat
 Date : 05/01/2017
-Version : 0.0.1
+Version : 0.0.2
 """
 import sys
 import pygame
